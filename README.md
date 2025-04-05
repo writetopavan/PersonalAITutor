@@ -1,4 +1,4 @@
-# AItution - AI-Powered Learning Platform
+# PersonalAITutor - AI-Powered Learning Platform
 
 ## Overview
 
