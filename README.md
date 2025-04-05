@@ -1,5 +1,10 @@
 # PersonalAITutor - AI-Powered Learning Platform
 
+Built with AutoGen 0.4.8, AItution leverages multiple AI agents to create a personalized learning experience:
+- Assessment Agent: Evaluates student knowledge through interactive conversations
+- Content Creation Agent: Generates customized course content based on assessment results
+- Course Plan Reviewer Agent: Ensures high-quality and structured learning materials
+
 ## Overview
 
 AItution is an innovative AI-powered learning platform that creates personalized learning experiences. The platform uses advanced AI agents to:
