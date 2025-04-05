@@ -69,3 +69,4 @@ data/runs/*
 data/sessions/*
 !data/runs/.gitkeep
 !data/sessions/.gitkeep 
+/AItution/frontend/node_modules

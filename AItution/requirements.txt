@@ -1,0 +1,4 @@
+autogen-agentchat>=0.2.0
+regex>=2022.10.31
+flask==3.0.2
+flask-cors==4.0.0 
